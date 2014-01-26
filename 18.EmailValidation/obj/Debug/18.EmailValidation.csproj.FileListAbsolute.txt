@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\bin\Debug\18.EmailValidation.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\bin\Debug\18.EmailValidation.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\bin\Debug\18.EmailValidation.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\obj\Debug\18.EmailValidation.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\obj\Debug\18.EmailValidation.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\18.EmailValidation\obj\Debug\18.EmailValidation.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\18.EmailValidation\bin\Debug\18.EmailValidation.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\18.EmailValidation\obj\Debug\18.EmailValidation.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\18.EmailValidation\obj\Debug\18.EmailValidation.pdb

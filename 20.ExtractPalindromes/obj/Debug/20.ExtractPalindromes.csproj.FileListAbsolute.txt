@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb

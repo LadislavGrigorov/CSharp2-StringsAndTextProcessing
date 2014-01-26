@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\bin\Debug\17.DateAfter6Hours.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\bin\Debug\17.DateAfter6Hours.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\bin\Debug\17.DateAfter6Hours.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\obj\Debug\17.DateAfter6Hours.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\obj\Debug\17.DateAfter6Hours.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\17.DateAfter6Hours\obj\Debug\17.DateAfter6Hours.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\17.DateAfter6Hours\bin\Debug\17.DateAfter6Hours.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\17.DateAfter6Hours\obj\Debug\17.DateAfter6Hours.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\17.DateAfter6Hours\obj\Debug\17.DateAfter6Hours.pdb

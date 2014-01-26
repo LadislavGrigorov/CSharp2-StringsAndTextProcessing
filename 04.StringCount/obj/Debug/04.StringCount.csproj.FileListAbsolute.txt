@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\bin\Debug\04.StringCount.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\obj\Debug\04.StringCount.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\bin\Debug\04.StringCount.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\bin\Debug\04.StringCount.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\obj\Debug\04.StringCount.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\04.StringCount\obj\Debug\04.StringCount.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\04.StringCount\bin\Debug\04.StringCount.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\04.StringCount\obj\Debug\04.StringCount.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\04.StringCount\obj\Debug\04.StringCount.pdb

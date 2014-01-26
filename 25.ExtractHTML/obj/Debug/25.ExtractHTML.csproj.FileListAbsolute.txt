@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\bin\Debug\25.ExtractHTML.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\obj\Debug\25.ExtractHTML.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\obj\Debug\25.ExtractHTML.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\25.ExtractHTML\obj\Debug\25.ExtractHTML.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\25.ExtractHTML\bin\Debug\25.ExtractHTML.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\25.ExtractHTML\obj\Debug\25.ExtractHTML.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\25.ExtractHTML\obj\Debug\25.ExtractHTML.pdb

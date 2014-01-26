@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\15.ReplaceHTML\obj\Debug\15.ReplaceHTML.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\15.ReplaceHTML\obj\Debug\15.ReplaceHTML.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\15.ReplaceHTML\bin\Debug\15.ReplaceHTML.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\15.ReplaceHTML\obj\Debug\15.ReplaceHTML.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\15.ReplaceHTML\obj\Debug\15.ReplaceHTML.pdb

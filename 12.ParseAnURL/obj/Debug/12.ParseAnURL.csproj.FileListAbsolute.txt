@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\bin\Debug\12.ParseAnURL.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\bin\Debug\12.ParseAnURL.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\bin\Debug\12.ParseAnURL.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\obj\Debug\12.ParseAnURL.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\obj\Debug\12.ParseAnURL.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\12.ParseAnURL\obj\Debug\12.ParseAnURL.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\12.ParseAnURL\bin\Debug\12.ParseAnURL.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\12.ParseAnURL\obj\Debug\12.ParseAnURL.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\12.ParseAnURL\obj\Debug\12.ParseAnURL.pdb

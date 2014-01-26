@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\16. DateAndTimeParse\bin\Debug\_16.DateAndTimeParse.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\16. DateAndTimeParse\bin\Debug\_16.DateAndTimeParse.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\16. DateAndTimeParse\bin\Debug\_16.DateAndTimeParse.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\16. DateAndTimeParse\obj\Debug\_16.DateAndTimeParse.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\16. DateAndTimeParse\obj\Debug\_16.DateAndTimeParse.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\16. DateAndTimeParse\bin\Debug\_16.DateAndTimeParse.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\16. DateAndTimeParse\obj\Debug\_16.DateAndTimeParse.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\16. DateAndTimeParse\obj\Debug\_16.DateAndTimeParse.pdb

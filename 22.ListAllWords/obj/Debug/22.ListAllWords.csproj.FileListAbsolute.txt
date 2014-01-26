@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\bin\Debug\22.ListAllWords.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\bin\Debug\22.ListAllWords.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\bin\Debug\22.ListAllWords.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\obj\Debug\22.ListAllWords.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\obj\Debug\22.ListAllWords.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\22.ListAllWords\obj\Debug\22.ListAllWords.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\22.ListAllWords\bin\Debug\22.ListAllWords.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\22.ListAllWords\obj\Debug\22.ListAllWords.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\22.ListAllWords\obj\Debug\22.ListAllWords.pdb

@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\10.StringToUnicodeChars\bin\Debug\10.StringToUnicodeChars.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\10.StringToUnicodeChars\bin\Debug\10.StringToUnicodeChars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\10.StringToUnicodeChars\bin\Debug\10.StringToUnicodeChars.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\10.StringToUnicodeChars\obj\Debug\10.StringToUnicodeChars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\10.StringToUnicodeChars\obj\Debug\10.StringToUnicodeChars.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\10.StringToUnicodeChars\bin\Debug\10.StringToUnicodeChars.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\10.StringToUnicodeChars\obj\Debug\10.StringToUnicodeChars.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\10.StringToUnicodeChars\obj\Debug\10.StringToUnicodeChars.pdb

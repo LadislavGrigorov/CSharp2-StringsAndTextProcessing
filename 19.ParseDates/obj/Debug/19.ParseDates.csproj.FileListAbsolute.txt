@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\bin\Debug\19.ParseDates.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\bin\Debug\19.ParseDates.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\bin\Debug\19.ParseDates.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\obj\Debug\19.ParseDates.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\obj\Debug\19.ParseDates.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\19.ParseDates\obj\Debug\19.ParseDates.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\19.ParseDates\bin\Debug\19.ParseDates.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\19.ParseDates\obj\Debug\19.ParseDates.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\19.ParseDates\obj\Debug\19.ParseDates.pdb

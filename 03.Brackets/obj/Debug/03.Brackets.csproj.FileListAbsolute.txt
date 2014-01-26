@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\03.Brackets\bin\Debug\03.Brackets.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\03.Brackets\obj\Debug\03.Brackets.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\03.Brackets\obj\Debug\03.Brackets.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\03.Brackets\bin\Debug\03.Brackets.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\03.Brackets\obj\Debug\03.Brackets.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\03.Brackets\obj\Debug\03.Brackets.pdb

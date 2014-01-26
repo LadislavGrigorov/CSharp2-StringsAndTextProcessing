@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\06.StringTo20Chars\bin\Debug\06.StringTo20Chars.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\06.StringTo20Chars\bin\Debug\06.StringTo20Chars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\06.StringTo20Chars\bin\Debug\06.StringTo20Chars.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\06.StringTo20Chars\obj\Debug\06.StringTo20Chars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\06.StringTo20Chars\obj\Debug\06.StringTo20Chars.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\06.StringTo20Chars\bin\Debug\06.StringTo20Chars.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\06.StringTo20Chars\obj\Debug\06.StringTo20Chars.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\06.StringTo20Chars\obj\Debug\06.StringTo20Chars.pdb

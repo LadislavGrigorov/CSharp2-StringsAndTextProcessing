@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\bin\Debug\05.ChangeTextInTags.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\bin\Debug\05.ChangeTextInTags.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\bin\Debug\05.ChangeTextInTags.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\obj\Debug\05.ChangeTextInTags.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\obj\Debug\05.ChangeTextInTags.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\05.ChangeTextInTags\obj\Debug\05.ChangeTextInTags.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\05.ChangeTextInTags\bin\Debug\05.ChangeTextInTags.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\05.ChangeTextInTags\obj\Debug\05.ChangeTextInTags.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\05.ChangeTextInTags\obj\Debug\05.ChangeTextInTags.pdb

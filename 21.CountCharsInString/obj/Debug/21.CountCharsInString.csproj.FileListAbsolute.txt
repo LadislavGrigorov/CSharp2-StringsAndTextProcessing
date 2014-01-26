@@ -1,0 +1,9 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\bin\Debug\21.CountCharsInString.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\bin\Debug\21.CountCharsInString.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\bin\Debug\21.CountCharsInString.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\obj\Debug\21.CountCharsInString.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\obj\Debug\21.CountCharsInString.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\21.CountCharsInString\obj\Debug\21.CountCharsInString.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\21.CountCharsInString\bin\Debug\21.CountCharsInString.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\21.CountCharsInString\obj\Debug\21.CountCharsInString.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\21.CountCharsInString\obj\Debug\21.CountCharsInString.pdb

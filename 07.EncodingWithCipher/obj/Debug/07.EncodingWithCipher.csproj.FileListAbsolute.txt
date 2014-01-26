@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\07.EncodingWithCipher\bin\Debug\07.EncodingWithCipher.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\07.EncodingWithCipher\bin\Debug\07.EncodingWithCipher.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\07.EncodingWithCipher\bin\Debug\07.EncodingWithCipher.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\07.EncodingWithCipher\obj\Debug\07.EncodingWithCipher.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\07.EncodingWithCipher\obj\Debug\07.EncodingWithCipher.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\07.EncodingWithCipher\bin\Debug\07.EncodingWithCipher.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\07.EncodingWithCipher\obj\Debug\07.EncodingWithCipher.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\07.EncodingWithCipher\obj\Debug\07.EncodingWithCipher.pdb

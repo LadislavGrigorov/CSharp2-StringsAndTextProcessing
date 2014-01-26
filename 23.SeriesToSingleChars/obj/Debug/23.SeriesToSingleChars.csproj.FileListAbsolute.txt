@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\23.SeriesToSingleChars\bin\Debug\23.SeriesToSingleChars.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\23.SeriesToSingleChars\bin\Debug\23.SeriesToSingleChars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\23.SeriesToSingleChars\bin\Debug\23.SeriesToSingleChars.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\23.SeriesToSingleChars\obj\Debug\23.SeriesToSingleChars.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\23.SeriesToSingleChars\obj\Debug\23.SeriesToSingleChars.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\23.SeriesToSingleChars\bin\Debug\23.SeriesToSingleChars.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\23.SeriesToSingleChars\obj\Debug\23.SeriesToSingleChars.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\23.SeriesToSingleChars\obj\Debug\23.SeriesToSingleChars.pdb

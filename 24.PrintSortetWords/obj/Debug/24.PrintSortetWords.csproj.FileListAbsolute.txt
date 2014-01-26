@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\24.PrintSortetWords\bin\Debug\24.PrintSortetWords.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\24.PrintSortetWords\bin\Debug\24.PrintSortetWords.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\24.PrintSortetWords\bin\Debug\24.PrintSortetWords.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\24.PrintSortetWords\obj\Debug\24.PrintSortetWords.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\24.PrintSortetWords\obj\Debug\24.PrintSortetWords.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\24.PrintSortetWords\bin\Debug\24.PrintSortetWords.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\24.PrintSortetWords\obj\Debug\24.PrintSortetWords.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\24.PrintSortetWords\obj\Debug\24.PrintSortetWords.pdb

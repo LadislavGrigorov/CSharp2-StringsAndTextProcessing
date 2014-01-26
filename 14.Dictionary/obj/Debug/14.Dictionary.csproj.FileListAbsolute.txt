@@ -1,0 +1,8 @@
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.exe
+D:\TelerikArchives\Trash\Probems\ClassesAtClass\StringsAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.pdb
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\14.Dictionary\bin\Debug\14.Dictionary.exe.config
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\14.Dictionary\obj\Debug\14.Dictionary.exe
+D:\Telerik\C# Part 2\08.StringsAndTextProcessing\StringsAndTextProcessing-Homework\14.Dictionary\obj\Debug\14.Dictionary.pdb
